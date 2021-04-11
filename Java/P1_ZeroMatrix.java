@@ -4,12 +4,13 @@
 *	If any of the items are 0, then set that item's entire row and column to 0.
 *	items that are not 0 will be represented by an integer.
 *
-*	Video Link: 
+*	Video Link: https://youtu.be/YgguFLwBwIE
 *
 *	Instagram: http://instagram.com/aakashverma1102
 *	LinkedIn: https://www.linkedin.com/in/aakashverma1124/
 *
 */
+
 import java.util.*;
 
 class ZeroMatrix {
