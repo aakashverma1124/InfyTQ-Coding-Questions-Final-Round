@@ -4,7 +4,7 @@
 *	1. Add num and its reverse 
 *	2. Check whether the sum is palindrome or not. If not, add the sum and its reverse and repeat the process until a palindrome is obtained 
 *	
-*	Video Link: 
+*	Video Link: https://youtu.be/i8BrWc8RrYA
 *
 *	Instagram: http://instagram.com/aakashverma1102
 *	LinkedIn: https://www.linkedin.com/in/aakashverma1124/
